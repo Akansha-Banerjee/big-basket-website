@@ -175,7 +175,7 @@ select {
   height: 400px;
 
   border: 10px groove black;
-  background-image: url("/images/flower.jpg");
+  background-image: url("images/flower.jpg");
   background-repeat: no-repeat;
   /*  background-size: cover;*/
   background-size: 100% 400px;
